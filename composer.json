@@ -1,0 +1,24 @@
+{
+    "name": "mednix/killerguess",
+    "description": "killerguess api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mednix",
+            "email": "med.programmer@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "codegyre/robo": "~0.4",
+        "phpspec/phpspec": "~2.0",
+        "codeception/codeception": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Guess\\": "src/"
+        }
+    }
+}
