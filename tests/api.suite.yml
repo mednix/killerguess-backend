@@ -1,0 +1,8 @@
+class_name: ApiTester
+modules:
+  enabled: [ApiHelper, PhpBrowser]
+  config:
+    PhpBrowser:
+      url: http://killerguess.dev/
+    REST:
+      url: http://killerguess.dev/api/
