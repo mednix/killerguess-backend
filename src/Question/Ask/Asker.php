@@ -1,4 +1,4 @@
-<?php namespace KillerGuess\Question\Ask;
+<?php namespace Killerguess\Question\Ask;
 
 use KillerGuess\Question\Question;
 

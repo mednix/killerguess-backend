@@ -1,7 +1,7 @@
 formatter.name: pretty
 suites:
     kilmlerguess_suite:
-        namespace: KillerGuess
-        spec_prefix: _spec
+        namespace: Killerguess
+        spec_prefix: spec
         src_path: src
-        spec_path: tests/spec
+        spec_path: tests

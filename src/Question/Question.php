@@ -1,4 +1,4 @@
-<?php namespace KillerGuess\Question;
+<?php namespace Killerguess\Question;
 
 
 class Question
