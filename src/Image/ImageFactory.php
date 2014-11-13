@@ -8,4 +8,12 @@ class ImageFactory
     $image->setUrl($url);
     return $image;
   }
+
+  public static function createFromLocal()
+  {
+    $url='';
+    $image=new Image();
+    $image->setUrl($url);
+    return $image;
+  }
 }
